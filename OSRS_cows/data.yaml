@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['cow', 'cowhide', 'player']
+
+roboflow:
+  workspace: utk-machine-learning
+  project: osrs_cows-f8lva
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/utk-machine-learning/osrs_cows-f8lva/dataset/1
