@@ -1,0 +1,50 @@
+<annotation>
+  <folder>incomplete cow</folder>
+  <filename>osrs_image_160</filename>
+  <path>C:\Users\MMH\PycharmProjects\yolo-data\incomplete cow\osrs_image_160.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cow</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1036</xmin>
+      <ymin>770</ymin>
+      <xmax>1340</xmax>
+      <ymax>959</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cow</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>933</xmin>
+      <ymin>523</ymin>
+      <xmax>968</xmax>
+      <ymax>595</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>player</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>945</xmin>
+      <ymin>446</ymin>
+      <xmax>993</xmax>
+      <ymax>528</ymax>
+    </bndbox>
+  </object>
+</annotation>

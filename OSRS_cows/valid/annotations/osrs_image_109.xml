@@ -1,0 +1,26 @@
+<annotation>
+  <folder>osrs_images</folder>
+  <filename>osrs_image_109</filename>
+  <path>C:\Users\MMH\PycharmProjects\yolo-data\osrs_images\osrs_image_109.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cow</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>876</xmin>
+      <ymin>568</ymin>
+      <xmax>1008</xmax>
+      <ymax>668</ymax>
+    </bndbox>
+  </object>
+</annotation>
